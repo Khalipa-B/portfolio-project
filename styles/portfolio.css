@@ -84,8 +84,8 @@ p {
 
 @media (max-width: 960px) {
   h1 {
-    font-size: 40px;
-    line-height: 1.5;
+    font-size: 30px;
+    line-height: 1;
   }
 
   h2 {
@@ -100,5 +100,9 @@ p {
 
   .hero {
     padding: 80px 20px;
+  }
+
+  .btn-branding-outline {
+    text-align: center;
   }
 }
